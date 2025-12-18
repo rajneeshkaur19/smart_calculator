@@ -23,17 +23,24 @@ smart_calculator/
 ├── smart_calculator.py   # main python file
 └── README.md             # project documentation
 
+
 🛠️ TECHNOLOGIES USED
 
 Python 3
 
 Variables
 
+Strings
+
 Operators
 
 Input/Output
 
 Conditional Statements
+
+lists and tuples
+
+Loops
 
 ▶️ HOW TO RUN
 
