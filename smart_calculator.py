@@ -9,9 +9,9 @@ while True:
         print("invalid operation!!!!! try again!!")
         continue
     if op == "+":
-        result = num1 +num2
+        result = num1 + num2
     elif op == "-":
-        result = num1 -num2
+        result = num1 - num2
     elif op == "*":
         result = num1*num2
     elif op == "/":
